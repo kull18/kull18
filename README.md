@@ -35,7 +35,22 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://media.tenor.com/6keig3NVMYYAAAAC/one-punch-man-ok.gif"  />
+  <img height="200" src="https://camo.githubusercontent.com/b28d78f8b1837637b831ee21657433094cc375ab133b4ff039eac76f954d64c0/68747470733a2f2f6d656469612e74656e6f722e636f6d2f366b656967334e564d595941414141432f6f6e652d70756e63682d6d616e2d6f6b2e676966"  />
+</div>
+
+###
+
+<h2 align="left">Contact me with</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.youtube.com/@regibermontoyagonzalez3397" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  <a href="https://www.instagram.com/regiber18/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
